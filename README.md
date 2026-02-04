@@ -1,6 +1,6 @@
 # my-first-repo
-# My First GitHub Repository
+# Programming Practice – C Language
 
 Hello! 👋  
-This is my first repository on GitHub.  
-I am learning how to use GitHub step by step.
+This repository contains my C programs and practice work.  
+I am using GitHub to learn version control step by step.
